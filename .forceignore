@@ -1,0 +1,4 @@
+# Standard force ignore
+**/jsconfig.json
+**/.eslintrc.json
+**/__tests__/**
