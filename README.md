@@ -5,6 +5,11 @@ touch-first **patient journey funnel** with live what-if intervention modeling
 for pharma sales reps. Built to run as a **custom tab / App Page in the Life
 Sciences Cloud (LSC) mobile app**.
 
+![Patient Journey Simulator running as a tab in the AFLS mobile app](docs/media/patient-simulator-demo.gif)
+
+_The LWC running as the **Pat Sim** tab in the AFLS mobile app — tap a stage to
+see drop-off drivers, drag the what-if levers to re-flow the funnel live._
+
 - **Component:** `lscMobileInline_patientSimulator` (master label **"Pat Sim"**)
 - **App Page:** `Pat_Sim` (label **"Pat Sim"**)
 - **API version:** 66.0
