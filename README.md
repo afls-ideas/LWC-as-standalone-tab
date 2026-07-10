@@ -126,8 +126,6 @@ Activation is what creates the navigable **custom tab**.
      admins only).
    - **LIGHTNING EXPERIENCE** — add the page to one or more Lightning apps for
      desktop.
-   - **MOBILE NAVIGATION** — add the page to the mobile navigation menu. **This
-     is the step that surfaces the LWC in the LSC mobile app.**
 5. **Save** the dialog, then **Save** the page.
 
 ---
